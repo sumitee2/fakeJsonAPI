@@ -7,6 +7,7 @@
   ],
   "users": [{
     "username": "dummyuser",
-    "fullname": "Dummy User"
+    "fullname": "Dummy User",
+    "password": "1234"
   }]
 }
