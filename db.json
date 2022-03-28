@@ -5,8 +5,8 @@
       "title": "War & Peace"
     }
   ],
-  "users": {
+  "users": [{
     "username": "dummyuser",
     "fullname": "Dummy User"
-  }
+  }]
 }
