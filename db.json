@@ -1,8 +1,20 @@
 {
   "books": [
     {
-      "id": 1,
-      "title": "War & Peace"
+      "id": "1",
+      "title": "War & Peace",
+      "author": "Lev Tolstoi",
+      "isbn": "1323211231",
+      "price": 100,
+      "description": "War and Peace is a literary work mixed with chapters on history and philosophy by the Russian author Leo Tolstoy. It was first published serially, then published in its entirety in 1869. It is regarded as one of Tolstoy's finest literary achievements and remains an internationally praised classic of world literature."
+    },
+    {
+      "id": "2",
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "isbn": "1323211222",
+      "price": 100,
+      "description": "Ulysses is a modernist novel by Irish writer James Joyce. It was first serialized in parts in the American journal The Little Review from March 1918 to December 1920 and then published in its entirety in Paris by Sylvia Beach on 2 February 1922, Joyce's 40th birthday."
     }
   ],
   "users": [{
