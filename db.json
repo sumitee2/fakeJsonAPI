@@ -3,112 +3,112 @@
     {
       "id": "1",
       "title": "Modern History Spectrum",
-      "percent": 0,
+      "progress": 0,
       "comments": ["Intro"]
     },
 
     {
       "id": "2",
       "title": "Mrunal Economics",
-      "percent": 0,
+      "progress": 0,
       "comments": ["Intro"]
     },
 
     {
       "id": "3",
       "title": "Shankar Environment",
-      "percent": 0,
+      "progress": 0,
       "comments": ["Intro"]
     },
 
     {
       "id": "4",
       "title": "Ancient India by R S Sharma",
-      "percent": 0,
+      "progress": 0,
       "comments": ["Intro"]
     },
 
     {
       "id": "5",
       "title": "Medieval NIOS",
-      "percent": 0,
+      "progress": 0,
       "comments": ["Intro"]
     },
 
     {
       "id": "6",
       "title": "Geography NCERT 11-12",
-      "percent": 0,
+      "progress": 0,
       "comments": ["Intro"]
     },
 
     {
       "id": "7",
       "title": "Polity by Laxmikant",
-      "percent": 0,
+      "progress": 0,
       "comments": ["Intro"]
     },
 
     {
       "id": "8",
       "title": "Compilation CA - Polity",
-      "percent": 0,
+      "progress": 0,
       "comments": ["Intro"]
     },
 
     {
       "id": "9",
       "title": "Compilation CA - International",
-      "percent": 0,
+      "progress": 0,
       "comments": ["Intro"]
     },
 
     {
       "id": "10",
       "title": "Compilation CA - Economics",
-      "percent": 0,
+      "progress": 0,
       "comments": ["Intro"]
     },
 
     {
       "id": "11",
       "title": "Compilation CA - Environment",
-      "percent": 0,
+      "progress": 0,
       "comments": ["Intro"]
     },
 
     {
       "id": "12",
       "title": "Compilation CA - Schemes",
-      "percent": 0,
+      "progress": 0,
       "comments": ["Intro"]
     },
 
     {
       "id": "13",
       "title": "Compilation CA - Science Defence",
-      "percent": 0,
+      "progress": 0,
       "comments": ["Intro"]
     },
 
     {
       "id": "14",
       "title": "Compilation CA - Social Sector",
-      "percent": 0,
+      "progress": 0,
       "comments": ["Intro"]
     },
 
     {
       "id": "15",
       "title": "Art and Culture",
-      "percent": 0,
+      "progress": 0,
       "comments": ["Intro"]
     },
 
     {
       "id": "16",
       "title": "Map Practice",
-      "percent": 0,
+      "progress": 0,
       "comments": ["Intro"]
     }
   ],
