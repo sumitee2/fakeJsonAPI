@@ -2,24 +2,123 @@
   "books": [
     {
       "id": "1",
-      "title": "War & Peace",
-      "author": "Lev Tolstoi",
-      "isbn": "1323211231",
-      "price": 100,
-      "description": "War and Peace is a literary work mixed with chapters on history and philosophy by the Russian author Leo Tolstoy. It was first published serially, then published in its entirety in 1869. It is regarded as one of Tolstoy's finest literary achievements and remains an internationally praised classic of world literature."
+      "title": "Modern History Spectrum",
+      "percent": 0,
+      "comments": ["Intro"]
     },
+
     {
       "id": "2",
-      "title": "Ulysses",
-      "author": "James Joyce",
-      "isbn": "1323211222",
-      "price": 100,
-      "description": "Ulysses is a modernist novel by Irish writer James Joyce. It was first serialized in parts in the American journal The Little Review from March 1918 to December 1920 and then published in its entirety in Paris by Sylvia Beach on 2 February 1922, Joyce's 40th birthday."
-    }
+      "title": "Mrunal Economics",
+      "percent": 0,
+      "comments": ["Intro"]
+    },
+
+    {
+      "id": "3",
+      "title": "Shankar Environment",
+      "percent": 0,
+      "comments": ["Intro"]
+    },
+
+    {
+      "id": "4",
+      "title": "Ancient India by R S Sharma",
+      "percent": 0,
+      "comments": ["Intro"]
+    },
+
+    {
+      "id": "5",
+      "title": "Medieval NIOS",
+      "percent": 0,
+      "comments": ["Intro"]
+    },
+
+    {
+      "id": "6",
+      "title": "Geography NCERT 11-12",
+      "percent": 0,
+      "comments": ["Intro"]
+    },
+
+    {
+      "id": "7",
+      "title": "Polity by Laxmikant",
+      "percent": 0,
+      "comments": ["Intro"]
+    },
+
+    {
+      "id": "8",
+      "title": "Compilation CA - Polity",
+      "percent": 0,
+      "comments": ["Intro"]
+    },
+
+    {
+      "id": "9",
+      "title": "Compilation CA - International",
+      "percent": 0,
+      "comments": ["Intro"]
+    },
+
+    {
+      "id": "10",
+      "title": "Compilation CA - Economics",
+      "percent": 0,
+      "comments": ["Intro"]
+    },
+
+    {
+      "id": "11",
+      "title": "Compilation CA - Environment",
+      "percent": 0,
+      "comments": ["Intro"]
+    },
+
+    {
+      "id": "11",
+      "title": "Compilation CA - Schemes",
+      "percent": 0,
+      "comments": ["Intro"]
+    },
+
+    {
+      "id": "12",
+      "title": "Compilation CA - Science Defence",
+      "percent": 0,
+      "comments": ["Intro"]
+    },
+
+    {
+      "id": "12",
+      "title": "Compilation CA - Social Sector",
+      "percent": 0,
+      "comments": ["Intro"]
+    },
+
+    {
+      "id": "13",
+      "title": "Art and Culture",
+      "percent": 0,
+      "comments": ["Intro"]
+    },
+
+    {
+      "id": "14",
+      "title": "Map Practice",
+      "percent": 0,
+      "comments": ["Intro"]
+    },
+
   ],
-  "users": [{
-    "username": "dummyuser",
-    "fullname": "Dummy User",
-    "password": "1234"
-  }]
+  "mocks": [
+    {
+    "title": "VisionPlaceholder",
+    "marks": 0,
+    "attempted" : [ 0 , 0 , 0 ],
+    "correct": [0, 0, 0]
+  }
+]
 }
